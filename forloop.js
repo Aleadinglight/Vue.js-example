@@ -9,4 +9,4 @@ var app = new Vue({
     }
   });
   
-  app.todos.push({ text: 'More text'});
+  app.todos.push({ text: 'More text lines.'});
